@@ -120,7 +120,7 @@ Operational analytics solution for Openreach UK FTTP projects featuring:
 
 - 📧 **Email:** shakirajesh16@gmail.com
 - 💼 **LinkedIn:** www.linkedin.com/in/shakilaazhagesan
-- 🌍 **Location:** India
+- 🌍 **Location:** India - Tamil Nadu - Chennai
 
 ---
 
